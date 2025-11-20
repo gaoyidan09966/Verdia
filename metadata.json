@@ -1,0 +1,8 @@
+{
+  "name": "Verdia-AI花园助手",
+  "description": "开发一款园艺助手应用程序，能够通过照片识别植物并提供详细的养护说明。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
